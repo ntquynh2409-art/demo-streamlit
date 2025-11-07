@@ -1,6 +1,6 @@
 import time
 import streamlit as st
-import pyrebase
+import pyrebase4 as pyrebase
 import firebase_admin
 import requests
 from firebase_admin import credentials, firestore
